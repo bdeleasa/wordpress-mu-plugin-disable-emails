@@ -1,0 +1,18 @@
+{
+    "name": "bdeleasa/wordpress-mu-plugin-disable-emails",
+    "description": "A small mu-plugin for disabling emails on local environments.",
+    "version": "1.0.0",
+    "type": "wordpress-muplugin",
+    "authors": [
+        {
+            "name": "Brianna Deleasa",
+            "email": "me@briannadeleasa.com"
+        }
+    ],
+    "dist": {
+        "type": "zip",
+        "url": "https://github.com/bdeleasa/wordpress-mu-plugin-disable-emails/archive/refs/tags/1.0.0.zip",
+        "reference": "1.0.0",
+        "shasum": ""
+    }
+}
